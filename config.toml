@@ -40,7 +40,7 @@ theme = "vex-hugo"
       alt = "FWIMD"
     [params.header.button]
       link = "#"
-      text = "Buy Now With $199"
+      text = "Register for FWIMD 2020"
 
   # Features
   [params.features]
