@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://www.fwimd.com"
 languageCode = "en"
 title = "FWIMD"
 theme = "vex-hugo"
@@ -17,7 +17,7 @@ theme = "vex-hugo"
 
   # Navigation bar informations
   [params.navbar]
-    logo = "Vex"
+    logo = "FWIMD"
     [[params.navbar.menu]]
       link = "#"
       text = "HOME"
@@ -33,11 +33,11 @@ theme = "vex-hugo"
 
   # Header
   [params.header]
-    title = "Believe in Technology, Make the change"
-    text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+    title = "Florida Women In Mathematics Day"
+    text = "FWIMD is a one-day conference for women in mathematics and a half-day immersion experience for girls interested in mathematics. The local FAU chapter of the Association for Women in Mathematics (AWM) will help facilitate this day and use existing AWM platforms to market FWIMD."
     [params.header.image]
-      path = "images/watch.png"
-      alt = "Watch"
+      path = "images/fwimd.png"
+      alt = "FWIMD"
     [params.header.button]
       link = "#"
       text = "Buy Now With $199"
@@ -131,4 +131,5 @@ theme = "vex-hugo"
       link = ""
       text = "Grab You Product Now"
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Footer uses navbar data
