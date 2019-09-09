@@ -316,6 +316,12 @@ a:active {
   margin-top: 15px; }
 */
 
+.feature-list {
+ background-color: #f9a743;
+ margin-bottom: 50px;
+}
+
+
 /*--
   Gallery start
 --*/

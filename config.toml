@@ -83,19 +83,19 @@ theme = "vex-hugo"
       alt = "Watch"
 
   [params.feature_list]
-    title = "Why Choose Apple Watch"
+    title = "Conference Features"
     [[params.feature_list.items]]
       image = "images/showcase/showcase-4.png"
       title = "Lorem ipsum dolor sit amet."
-      text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!"
-      button_link = ""
-      button_text = "Check Features"
+      text = "FWIMD features Research Talks, Presentations, networking, mentoring across all levels, a career panel, and a hands-on mathematics activity for local high school students.  This conference is open to anyone interested in mathematics at FAU and neighboring Florida institutions. Graduate students, undergraduates, high school students, faculty, and educators are all welcome!"
+      #button_link = ""
+      #button_text = "Check Features"
     [[params.feature_list.items]]
       image = "images/showcase/showcase-3.png"
       title = "Lorem ipsum dolor sit amet."
-      text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!"
-      button_link = ""
-      button_text = "Check Features"
+      text = "In addition, participants have the opportunity to learn about the research of other women in Florida; to present their work in a supportive environment; to network with other Florida women mathematicians; and to explore career opportunities and experiences of women in mathematics."
+      #button_link = ""
+      #button_text = "Check Features"
 
   [params.gallery]
     title = "Checkout some amazing Shorts"
