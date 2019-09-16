@@ -164,7 +164,7 @@ a:active {
   position: relative;
   font-family: "themefisher-font" !important; }
   .pre-loader:before {
-    content: "\f3bd";
+    content: "\f3ae";
     position: absolute;
     top: 50%;
     left: 50%;
@@ -376,11 +376,12 @@ a:active {
     service start
 --*/
 .testimonials .testimonial-block {
-  padding: 0 10px; }
+  padding: 0 10px; 
+}
   .testimonials .testimonial-block i {
     font-size: 40px;
     display: inline-block;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     color: #f9a743; }
   .testimonials .testimonial-block p {
     font-family: "Droid Serif", serif;

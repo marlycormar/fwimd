@@ -1,5 +1,5 @@
 {{ with .Site.Params.feature_list }}
-<section class="feature-list section">
+<section class="feature-list section" id="features-list">
   <div class="container">
       <div class="row">
           <div class="col-md-12">
@@ -15,7 +15,7 @@
           <img class="" src="{{ $element.image }}" alt="">
         </div>
         <div class="col-md-6">
-          <div class="content mt-100">
+          <div class="content">
             <h4 class="subheading">{{ $element.title }}</h4>
             <p>{{ $element.text }}</p>
             <!--<a href="{{ $element.button_link }}" class="btn btn-main btn-main-sm">{{ $element.button_text }}</a>-->
