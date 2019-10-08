@@ -1,34 +1,12 @@
-# fwimd
+## Florida Women in Mathematics Day (FWIMD)
 
-Notes:
-- To create a new blogdown site
+[FWIMD](https://www.fwimd.com) is a one-day conference for women in mathematics and a half-day immersion experience for girls interested in mathematics.
 
-	new_site(theme = "theme_name", 
-         sample = TRUE, 
-         theme_example = TRUE, #some sites may not have theme_example
-         empty_dirs = TRUE,
-         to_yaml = TRUE)
 
-For example
+### Organizers
 
-	new_site(theme = "gcushen/hugo-academic", 
-	         sample = TRUE, 
-	         theme_example = TRUE, 
-	         empty_dirs = TRUE,
-	         to_yaml = TRUE)
-
-- To run the site
-
-	blogdown::serve_site()
-
-- To change the researchgate and webpage icon, modify
-
-	themes/hugo-theme-even/layouts/partials/footer.html
-
-- To create a new post
-
-	blogdown::new_post(title = "Title for New post")
-
-- To create a new post using RMarkdown
-
-	blogdown::new_post(title = "Title for New post", ext=".Rmd")
+- Yuan Wang, Professor, FAU
+- Marly Cormar, Ph.D. Candidate, UF
+- Anae Myers, PhD Candidate, FAU
+- Catherine Berrouet, Graduate Student, FAU
+- Tran Ngo, PhD Candidate, FAU
