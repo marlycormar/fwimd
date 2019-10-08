@@ -127,7 +127,7 @@ theme = "vex-hugo"
       name = "Anae Myers"
       position = "PhD Candidate, FAU"
       image = "images/organizers/myers.png"
-     [[params.testimonials.blocks]]
+    [[params.testimonials.blocks]]
       text = "Vice President of the AWM Student Chapter in Florida Atlantic University. Catherine is a Master’s student in Mathematics at Florida Atlantic University. In her spare time she enjoys outdoor adventures, running and playing the piano. Check out Catherine's full bio <a href='http://www.math.fau.edu/awm/officers.php'>here!</a>"
       name = "Catherine Berrouet"
       position = "Graduate Student, FAU"
