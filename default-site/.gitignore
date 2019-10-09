@@ -1,0 +1,6 @@
+rsync.sh
+public/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
