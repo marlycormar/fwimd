@@ -1,0 +1,139 @@
+baseurl = "https://www.fwimd.com/2019"
+languageCode = "en"
+title = "FWIMD 2020"
+theme = "vex-hugo"
+
+[params]
+  description = ""
+
+  # Put your custom stylesheets and scripts
+  custom_stylesheets = []
+  custom_scripts = []
+
+  # Additional meta
+  [[params.meta]]
+    name = ""
+    description = ""
+
+  # Navigation bar informations
+  [params.navbar]
+    logo = "FWIMD 2020"
+    [[params.navbar.menu]]
+      link = "#"
+      text = "HOME"
+    [[params.navbar.menu]]
+      link = "#features-list"
+      text = "Plenary Speaker"
+    [[params.navbar.menu]]
+      link = "#gallery"
+      text = "Planned Activities"
+    [[params.navbar.menu]]
+      link = "#testimonial"
+      text = "Meet the Organizers"
+
+  # Header
+  [params.header]
+    title = "Florida Women In Mathematics Day"
+    text = "FWIMD is a one-day conference for women in mathematics and a half-day immersion experience for girls interested in mathematics. The local FAU chapter of the Association for Women in Mathematics (AWM) will help facilitate this day and use existing AWM platforms to market FWIMD."
+    [params.header.image]
+      path = "images/fwimd2.png"
+      alt = "FWIMD"
+    [params.header.button]
+      link = "#"
+      text = "Register for FWIMD 2020!"
+
+  # Features
+# [params.features]
+#   title = "Our Core Features"
+#   [params.features.image]
+#     path = "images/watch-2.png"
+#     alt = "Watch"
+#   # Menu at the left of the image
+#   [[params.features.left]]
+#     icon = "tf-ion-ios-alarm-outline"
+#     title = "Smooth Touch"
+#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+#   [[params.features.left]]
+#     icon = "tf-ion-ios-bell-outline"
+#     title = "Elegant Design"
+#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+#   [[params.features.left]]
+#     icon = "tf-ion-ios-cart-outline"
+#     title = "Easy Pricing"
+#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+#   # Menu at the right of the image
+#   [[params.features.right]]
+#     icon = "tf-ion-ios-alarm-outline"
+#     title = "Smooth Touch"
+#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+#   [[params.features.right]]
+#     icon = "tf-ion-ios-bell-outline"
+#     title = "Elegant Design"
+#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+#   [[params.features.right]]
+#     icon = "tf-ion-ios-cart-outline"
+#     title = "Easy Pricing"
+#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+# [params.promo]
+#   title = "Designed by professional , the benefit for creative gigs"
+#   text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.  \nLorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum."
+#   [params.promo.image]
+#     path = "images/watch.png"
+#     alt = "Watch"
+
+  [params.feature_list]
+    title = "Plenary Speaker"
+    [[params.feature_list.items]]
+      image = "images/speaker/nancy2.png"
+      title = "Nancy Scherich"
+      text = "\"I am a California native who recently finished graduate school at the University of California, Santa Barbara under the direction of Darren Long. I am currently a Visiting Assistant Professor at Wake Forest University in the Mathematics Department. I completed my BS in math at UCLA in 2011 and my MS in math at Oregon State University in 2013. (..) While mathematics takes up most of my time and energy, I am passionately interested in so many other things. My most recent adventure has been learning aerial silks. I have been studying and performing with Lauren Breese through AIREDANSE since March of 2016. In the summer of 2017, I combined my love of dance and mathematics in a Math-Dance video of my thesis and won first place in Science Magazine’s video competition Dance Your PhD. Since the competition, I have developed many Math-Dance outreach activities. I have choreographed live performances, given performative lectures, and published a paper about using dance as a technique to communicate mathematics to the public.\""
+      button_link = "https://nancyscherich.com"
+      button_text = "Check out her full bio!"
+
+  [params.gallery]
+    title = "Planned Activities"
+    # Set the image directory to use as base
+    directory = "images/showcase"
+    # Set the images to show in the gallery
+    images = ["showcase-2.png", "showcase-4.png", "showcase-5.png", "showcase-6.png", "showcase-7.png", "showcase-8.png"]
+
+  [params.call_to_action]
+    title = "Get Notified of Upcoming Conferences"
+    text = "To keep in touch with FWIMD, you can subscribe to our email list."
+    placeholder = "Your Email Address Here"
+    button_text = "Subscribe"
+
+  [params.testimonials]
+    title = "Meet the Organizers!"
+    [[params.testimonials.blocks]]
+      text = "Professor in the Department of Mathematics at Florida Atlantic University and an IEEE Fellow. Her research interests lie in several areas of control theory, including realization and stabilization of nonlinear systems. Since 1999, she has been serving as a moderator for arXiv. Check out Dr. Wang's full bio <a href='http://math.fau.edu/wang/'>here!</a>"
+      name = "Yuan Wang"
+      position = "Professor, FAU"
+      image = "images/organizers/ywang.png"
+    [[params.testimonials.blocks]]
+      text = "Ph.D. Candidate in Mathematics at the University of Florida. Besides Math, Marly is passionate about technology and computer science; she is currently working as an intern for the tidymodels team at RStudio. In her free time, she enjoys dancing, running, and programming. Check out Marly's full bio <a href='https://www.marlycormar.com'>here!</a>"
+      name = "Marly Cormar"
+      position = "Ph.D. Candidate, UF"
+      image = "images/organizers/marly.png"
+    [[params.testimonials.blocks]]
+      text = "President of the AWM Student Chapter and Ph.D. Candidate in Mathematics at Florida Atlantic University. Anae's research interests include harmonic analysis and interpolation theory. She is also an Associate of the Casualty Actuary Society (ACAS). Check out Anae's full bio <a href='http://www.math.fau.edu/people/grad-assistants/anaem.php'>here!</a>"
+      name = "Anae Myers"
+      position = "Ph.D. Candidate, FAU"
+      image = "images/organizers/myers.png"
+    [[params.testimonials.blocks]]
+      text = "Vice President of the AWM Student Chapter in Florida Atlantic University. Catherine is a Master’s student in Mathematics at Florida Atlantic University. In her spare time she enjoys outdoor adventures, running and playing the piano. Check out Catherine's full bio <a href='http://www.math.fau.edu/awm/officers.php'>here!</a>"
+      name = "Catherine Berrouet"
+      position = "M.S. Student, FAU"
+      image = "images/organizers/catherine.png"
+    [[params.testimonials.blocks]]
+      text = "Ph.D. student in Mathematics at Florida Atlantic University. Tran is currently serving as the Webmaster of the AWM Student Chapter at FAU. She earned her Master degree in Computer Science at JAIST, Japan in 2016. In her spare time, she loves traveling and outdoor activities. Check out Tran's full bio <a href='http://www.math.fau.edu/awm/officers.php'>here!</a>"
+      name = "Tran Ngo"
+      position = "Ph.D. Student, FAU"
+      image = "images/organizers/tran.png"
+    [params.testimonials.button]
+      link = ""
+      text = "Any questions?"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+  # Footer uses navbar data
