@@ -123,15 +123,20 @@ theme = "vex-hugo"
       position = "Ph.D. Candidate, UF"
       image = "images/organizers/marly.png"
     [[params.testimonials.blocks]]
-      text = "President of the AWM Student Chapter and Ph.D. student in Mathematics at Florida Atlantic University. Anae's research interests include harmonic analysis and interpolation theory. She is also an Associate of the Casualty Actuary Society (ACAS). Check out Anae's full bio <a href='http://www.math.fau.edu/people/grad-assistants/anaem.php'>here!</a>"
+      text = "President of the AWM Student Chapter and Ph.D. Candidate in Mathematics at Florida Atlantic University. Anae's research interests include harmonic analysis and interpolation theory. She is also an Associate of the Casualty Actuary Society (ACAS). Check out Anae's full bio <a href='http://www.math.fau.edu/people/grad-assistants/anaem.php'>here!</a>"
       name = "Anae Myers"
-      position = "PhD Candidate, FAU"
+      position = "Ph.D. Candidate, FAU"
       image = "images/organizers/myers.png"
     [[params.testimonials.blocks]]
       text = "Vice President of the AWM Student Chapter in Florida Atlantic University. Catherine is a Master’s student in Mathematics at Florida Atlantic University. In her spare time she enjoys outdoor adventures, running and playing the piano. Check out Catherine's full bio <a href='http://www.math.fau.edu/awm/officers.php'>here!</a>"
       name = "Catherine Berrouet"
-      position = "Graduate Student, FAU"
+      position = "M.S. Student, FAU"
       image = "images/organizers/catherine.png"
+    [[params.testimonials.blocks]]
+      text = "Ph.D. student in Mathematics at Florida Atlantic University. Tran is currently serving as the Webmaster of the AWM Student Chapter at FAU. She earned her Master degree in Computer Science at JAIST, Japan in 2016. In her spare time, she loves traveling and outdoor activities. Check out Tran's full bio <a href='http://www.math.fau.edu/awm/officers.php'>here!</a>"
+      name = "Tran Ngo"
+      position = "Ph.D. Student, FAU"
+      image = "images/organizers/tran.png"
     [params.testimonials.button]
       link = ""
       text = "Any questions?"
