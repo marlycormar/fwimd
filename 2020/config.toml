@@ -85,7 +85,7 @@ theme = "vex-hugo"
   [params.feature_list]
     title = "Plenary Speaker"
     [[params.feature_list.items]]
-      image = "images/speaker/nancy2.png"
+      image = "images/speaker/nancy.png"
       title = "Nancy Scherich"
       text = "\"I am a California native who recently finished graduate school at the University of California, Santa Barbara under the direction of Darren Long. I am currently a Visiting Assistant Professor at Wake Forest University in the Mathematics Department. I completed my BS in math at UCLA in 2011 and my MS in math at Oregon State University in 2013. (..) While mathematics takes up most of my time and energy, I am passionately interested in so many other things. My most recent adventure has been learning aerial silks. I have been studying and performing with Lauren Breese through AIREDANSE since March of 2016. In the summer of 2017, I combined my love of dance and mathematics in a Math-Dance video of my thesis and won first place in Science Magazine’s video competition Dance Your PhD. Since the competition, I have developed many Math-Dance outreach activities. I have choreographed live performances, given performative lectures, and published a paper about using dance as a technique to communicate mathematics to the public.\""
       button_link = "https://nancyscherich.com"
