@@ -1,4 +1,4 @@
-baseurl = "https://www.fwimd.com/2019"
+baseurl = "https://www.fwimd.com/2020"
 languageCode = "en"
 title = "FWIMD 2020"
 theme = "vex-hugo"
