@@ -39,8 +39,8 @@ theme = "vex-hugo"
       path = "images/fwimd2.png"
       alt = "FWIMD"
     [params.header.button]
-      link = "https://www.fwimd.com"
-      text = "Checkout FWIMD 2020"
+      link = "https://www.fwimd.com/2020"
+      text = "Go to FWIMD 2020!"
 
   # Features
 # [params.features]
