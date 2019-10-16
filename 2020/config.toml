@@ -112,8 +112,8 @@ theme = "vex-hugo"
       position = "Professor, FAU"
       image = "images/organizers/ywang.png"
     [[params.testimonials.blocks]]
-      text = "Ph.D. Candidate in Mathematics at the University of Florida. Besides Math, Marly is passionate about technology and computer science; she is currently working as an intern for the tidymodels team at RStudio. In her free time, she enjoys dancing, running, and programming. Check out Marly's full bio <a href='https://www.marlycormar.com'>here!</a>"
-      name = "Marly Cormar"
+      text = "Ph.D. Candidate in Mathematics at the University of Florida. Besides Math, Marly is passionate about technology and computer science; she is currently working as an intern for the tidymodels team at RStudio. In her free time, she enjoys dancing, running, and programming. Check out Marly's full bio <a href='https://www.marlygotti.com'>here!</a>"
+      name = "Marly Gotti"
       position = "Ph.D. Candidate, UF"
       image = "images/organizers/marly.png"
     [[params.testimonials.blocks]]
