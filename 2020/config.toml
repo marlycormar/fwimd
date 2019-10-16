@@ -131,9 +131,9 @@ theme = "vex-hugo"
       name = "Tran Ngo"
       position = "Ph.D. Student, FAU"
       image = "images/organizers/tran.png"
-    [params.testimonials.button]
-      link = ""
-      text = "Any questions?"
+    #[params.testimonials.button]
+    #  link = ""
+    #  text = "Any questions?"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Footer uses navbar data
