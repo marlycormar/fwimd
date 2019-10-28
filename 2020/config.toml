@@ -89,7 +89,7 @@ theme = "vex-hugo"
       title = "Dr. Nancy Scherich"
       text = "\"Dr. Nancy Scherich is a Visiting Assistant Professor in the Mathematics Department at Wake Forest University. In addition to her research in Knot Theory, Dr. Scherich creates videos using dance as a communication tool to explain complex mathematical concepts. Most notably she won Science Magazine's Dance Your PhD contest with her video about Representations of the Braid Groups. Dr. Scherich is an advocate for diversity in mathematics and she believes that dance is a wonderful way to include artists and performers into the mathematical community.\""
       button_link = "https://nancyscherich.com"
-      button_text = "Check out her full bio!"
+      button_text = "Check out her personal site!"
 
   [params.gallery]
     title = "Planned Activities"
