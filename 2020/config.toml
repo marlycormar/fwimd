@@ -39,7 +39,7 @@ theme = "vex-hugo"
       path = "images/fwimd2.png"
       alt = "FWIMD"
     [params.header.button]
-      link = "#"
+      link = "https://docs.google.com/forms/d/e/1FAIpQLSd3U2_eQKOP1GTk4K5opTgGNri2m_3DTJA-LwXUjzm8nElXTg/viewform"
       text = "Register for FWIMD 2020!"
 
   # Features
