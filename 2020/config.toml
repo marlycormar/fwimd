@@ -25,7 +25,7 @@ theme = "vex-hugo"
       link = "#plenary-speaker"
       text = "Plenary Speaker"
     [[params.navbar.menu]]
-      link = "#gallery"
+      link = "#planned-activities"
       text = "Planned Activities"
     [[params.navbar.menu]]
       link = "#organizers"
