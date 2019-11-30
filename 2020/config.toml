@@ -42,7 +42,7 @@ theme = "vex-hugo"
     title = "Florida Women In Mathematics Day"
     text = "FWIMD is a one-day conference for women in mathematics and a half-day immersion experience for girls interested in mathematics. The local FAU chapter of the Association for Women in Mathematics (AWM) will help facilitate this day and use existing AWM platforms to market FWIMD."
     [params.header.image]
-      path = "images/fwimd2.png"
+      path = "images/fwimd.png"
       alt = "FWIMD"
     [params.header.button]
       link = "https://docs.google.com/forms/d/e/1FAIpQLSd3U2_eQKOP1GTk4K5opTgGNri2m_3DTJA-LwXUjzm8nElXTg/viewform"
