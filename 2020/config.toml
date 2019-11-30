@@ -22,7 +22,7 @@ theme = "vex-hugo"
       link = "#"
       text = "HOME"
     [[params.navbar.menu]]
-      link = "#features-list"
+      link = "#plenary-speaker"
       text = "Plenary Speaker"
     [[params.navbar.menu]]
       link = "#gallery"
