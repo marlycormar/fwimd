@@ -42,9 +42,10 @@ theme = "vex-hugo"
       link = "https://docs.google.com/forms/d/e/1FAIpQLSd3U2_eQKOP1GTk4K5opTgGNri2m_3DTJA-LwXUjzm8nElXTg/viewform"
       text = "Register for FWIMD 2020!"
 
-  [params.feature_list]
+  # Based on feature_list
+  [params.plenary_speaker]
     title = "Plenary Speaker"
-    [[params.feature_list.items]]
+    [[params.plenary_speaker.items]]
       image = "images/speaker/nancy_reduced.jpeg"
       title = "Dr. Nancy Scherich"
       text = "\"Dr. Nancy Scherich is a Visiting Assistant Professor in the Mathematics Department at Wake Forest University. In addition to her research in Knot Theory, Dr. Scherich creates videos using dance as a communication tool to explain complex mathematical concepts. Most notably she won Science Magazine's Dance Your PhD contest with her video about Representations of the Braid Groups. Dr. Scherich is an advocate for diversity in mathematics and she believes that dance is a wonderful way to include artists and performers into the mathematical community.\""
