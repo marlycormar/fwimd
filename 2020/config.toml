@@ -28,7 +28,7 @@ theme = "vex-hugo"
       link = "#gallery"
       text = "Planned Activities"
     [[params.navbar.menu]]
-      link = "#testimonial"
+      link = "#organizers"
       text = "Meet the Organizers"
 
   # Header
@@ -62,36 +62,34 @@ theme = "vex-hugo"
     placeholder = "Your Email Address Here"
     button_text = "Subscribe"
 
-  [params.testimonials]
+  [params.organizers]
     title = "Meet the Organizers!"
-    [[params.testimonials.blocks]]
+    [[params.organizers.blocks]]
       text = "Professor in the Department of Mathematics at Florida Atlantic University and an IEEE Fellow. Her research interests lie in several areas of control theory, including realization and stabilization of nonlinear systems. Since 1999, she has been serving as a moderator for arXiv. Check out Dr. Wang's full bio <a href='http://math.fau.edu/wang/'>here!</a>"
       name = "Yuan Wang"
       position = "Professor, FAU"
       image = "images/organizers/ywang.png"
-    [[params.testimonials.blocks]]
+    [[params.organizers.blocks]]
       text = "Ph.D. Candidate in Mathematics at the University of Florida. Besides Math, Marly is passionate about technology and computer science; she is currently working as an intern for the tidymodels team at RStudio. In her free time, she enjoys dancing, running, and programming. Check out Marly's full bio <a href='https://www.marlygotti.com'>here!</a>"
       name = "Marly Gotti"
       position = "Ph.D. Candidate, UF"
       image = "images/organizers/marly.png"
-    [[params.testimonials.blocks]]
+    [[params.organizers.blocks]]
       text = "President of the AWM Student Chapter and Ph.D. Candidate in Mathematics at Florida Atlantic University. Anae's research interests include harmonic analysis and interpolation theory. She is also an Associate of the Casualty Actuary Society (ACAS). Check out Anae's full bio <a href='http://www.math.fau.edu/people/grad-assistants/anaem.php'>here!</a>"
       name = "Anae Myers"
       position = "Ph.D. Candidate, FAU"
       image = "images/organizers/myers.png"
-    [[params.testimonials.blocks]]
+    [[params.organizers.blocks]]
       text = "Vice President of the AWM Student Chapter in Florida Atlantic University. Catherine is a Master’s student in Mathematics at Florida Atlantic University. In her spare time she enjoys outdoor adventures, running and playing the piano. Check out Catherine's full bio <a href='http://www.math.fau.edu/awm/officers.php'>here!</a>"
       name = "Catherine Berrouet"
       position = "M.S. Student, FAU"
       image = "images/organizers/catherine.png"
-    [[params.testimonials.blocks]]
+    [[params.organizers.blocks]]
       text = "Ph.D. student in Mathematics at Florida Atlantic University. Tran is currently serving as the Webmaster of the AWM Student Chapter at FAU. She earned her Master degree in Computer Science at JAIST, Japan in 2016. In her spare time, she loves traveling and outdoor activities. Check out Tran's full bio <a href='http://www.math.fau.edu/awm/officers.php'>here!</a>"
       name = "Tran Ngo"
       position = "Ph.D. Student, FAU"
       image = "images/organizers/tran.png"
-    #[params.testimonials.button]
-    #  link = ""
-    #  text = "Any questions?"
+
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Footer uses navbar data

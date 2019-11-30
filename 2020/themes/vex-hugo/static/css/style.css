@@ -383,24 +383,24 @@ a:active {
 /*--
     service start
 --*/
-.testimonials .testimonial-block {
+.organizers .organizers-block {
   padding: 0 10px; 
 }
-  .testimonials .testimonial-block i {
+  .organizers .organizers-block i {
     font-size: 40px;
     display: inline-block;
     margin-bottom: 50px;
     color: #f9a743; }
-  .testimonials .testimonial-block p {
+  .organizers .organizers-block p {
     font-family: "Droid Serif", serif;
     font-size: 14px;
     color: #777; }
-  .testimonials .testimonial-block .author-details {
+  .organizers .organizers-block .author-details {
     margin-top: 30px; }
-    .testimonials .testimonial-block .author-details img {
+    .organizers .organizers-block .author-details img {
       border-radius: 50%;
       width: 50px; }
-    .testimonials .testimonial-block .author-details h4 {
+    .organizers .organizers-block .author-details h4 {
       font-weight: 700;
       font-size: 20px;
       margin-top: 10px; }
