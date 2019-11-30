@@ -42,46 +42,6 @@ theme = "vex-hugo"
       link = "https://docs.google.com/forms/d/e/1FAIpQLSd3U2_eQKOP1GTk4K5opTgGNri2m_3DTJA-LwXUjzm8nElXTg/viewform"
       text = "Register for FWIMD 2020!"
 
-  # Features
-# [params.features]
-#   title = "Our Core Features"
-#   [params.features.image]
-#     path = "images/watch-2.png"
-#     alt = "Watch"
-#   # Menu at the left of the image
-#   [[params.features.left]]
-#     icon = "tf-ion-ios-alarm-outline"
-#     title = "Smooth Touch"
-#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-#   [[params.features.left]]
-#     icon = "tf-ion-ios-bell-outline"
-#     title = "Elegant Design"
-#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-#   [[params.features.left]]
-#     icon = "tf-ion-ios-cart-outline"
-#     title = "Easy Pricing"
-#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-#   # Menu at the right of the image
-#   [[params.features.right]]
-#     icon = "tf-ion-ios-alarm-outline"
-#     title = "Smooth Touch"
-#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-#   [[params.features.right]]
-#     icon = "tf-ion-ios-bell-outline"
-#     title = "Elegant Design"
-#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-#   [[params.features.right]]
-#     icon = "tf-ion-ios-cart-outline"
-#     title = "Easy Pricing"
-#     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-# [params.promo]
-#   title = "Designed by professional , the benefit for creative gigs"
-#   text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.  \nLorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum."
-#   [params.promo.image]
-#     path = "images/watch.png"
-#     alt = "Watch"
-
   [params.feature_list]
     title = "Plenary Speaker"
     [[params.feature_list.items]]
@@ -91,12 +51,9 @@ theme = "vex-hugo"
       button_link = "https://nancyscherich.com"
       button_text = "Check out her personal site!"
 
-  [params.gallery]
+  [params.planned_activities]
     title = "Planned Activities"
-    # Set the image directory to use as base
-    directory = "images/showcase"
-    # Set the images to show in the gallery
-    images = ["showcase-2.png", "showcase-4.png", "showcase-5.png", "showcase-6.png", "showcase-7.png", "showcase-8.png"]
+    text = "Coming soon!!"
 
   [params.call_to_action]
     title = "Get Notified of Upcoming Conferences"
