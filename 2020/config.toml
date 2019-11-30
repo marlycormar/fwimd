@@ -26,10 +26,16 @@ theme = "vex-hugo"
       text = "Plenary Speaker"
     [[params.navbar.menu]]
       link = "#planned-activities"
-      text = "Planned Activities"
+      text = "Activities"
+    [[params.navbar.menu]]
+      link = "#features-list"
+      text = "Features"
+    [[params.navbar.menu]]
+      link = "#gallery"
+      text = "Gallery"
     [[params.navbar.menu]]
       link = "#organizers"
-      text = "Meet the Organizers"
+      text = "Organizers"
 
   # Header
   [params.header]
@@ -51,10 +57,32 @@ theme = "vex-hugo"
       text = "\"Dr. Nancy Scherich is a Visiting Assistant Professor in the Mathematics Department at Wake Forest University. In addition to her research in Knot Theory, Dr. Scherich creates videos using dance as a communication tool to explain complex mathematical concepts. Most notably she won Science Magazine's Dance Your PhD contest with her video about Representations of the Braid Groups. Dr. Scherich is an advocate for diversity in mathematics and she believes that dance is a wonderful way to include artists and performers into the mathematical community.\""
       button_link = "https://nancyscherich.com"
       button_text = "Check out her personal site!"
-
+      
   [params.planned_activities]
     title = "Planned Activities"
     text = "Coming soon!!"
+  
+  [params.feature_list]
+    title = "Conference Features"
+    [[params.feature_list.items]]
+      image = "images/showcase/showcase-7-reduced.png"
+      title = "Mathematics for all"
+      text = "FWIMD features Research Talks, Presentations, networking, mentoring across all levels, a career panel, and a hands-on mathematics activity for local high school students. This conference is open to anyone interested in mathematics at FAU and neighboring Florida institutions. Graduate students, undergraduates, high school students, faculty, and educators are all welcome!"
+      #button_link = ""
+      #button_text = "Check Features"
+    [[params.feature_list.items]]
+      image = "images/showcase/showcase-3-reduced.png"
+      title = "Promoting Research"
+      text = "In addition, participants have the opportunity to learn about the research of other women in Florida; to present their work in a supportive environment; to network with other Florida women mathematicians; and to explore career opportunities and experiences of women in mathematics."
+      #button_link = ""
+      #button_text = "Check Features"
+
+  [params.gallery]
+    title = "Memories from FWIMD 2019"
+    # Set the image directory to use as base
+    directory = "images/showcase"
+    # Set the images to show in the gallery
+    images = ["showcase-2.png", "showcase-4.png", "showcase-5.png", "showcase-6.png", "showcase-7.png", "showcase-8.png"]
 
   [params.call_to_action]
     title = "Get Notified of Upcoming Conferences"
@@ -62,6 +90,7 @@ theme = "vex-hugo"
     placeholder = "Your Email Address Here"
     button_text = "Subscribe"
 
+ # Fron testimonials
   [params.organizers]
     title = "Meet the Organizers!"
     [[params.organizers.blocks]]
