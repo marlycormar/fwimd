@@ -5,6 +5,14 @@
 	.navigation .navbar-brand {
 		float: none;
 	}
+
+	.hero-area{
+		margin-bottom: 50px;
+	}
+
+	.plenary-speaker {
+		padding-bottom: 50px;
+	}
 }
 
 @media (max-width: 767px) {
@@ -22,5 +30,9 @@
 
 	#feature-list-left-img{
 		display: none;
+	}
+
+	#plenary-speaker-image {
+		margin-bottom: 20px;
 	}
 }
