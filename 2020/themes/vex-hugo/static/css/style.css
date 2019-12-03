@@ -321,12 +321,27 @@ a:active {
  margin-bottom: 50px;
 }
 
+#feature-list-left-img {
+  width: 100%;
+  height: auto;
+}
+
+#feature-list-right-img {
+  width: 100%;
+  height: auto;
+}
+
 /*--
     Plenary-speaker start
 --*/
 .plenary-speaker {
  background-color: #f9a743;
  margin-bottom: 50px;
+}
+
+#plenary-speaker-image {
+  width: 100%;
+  height: auto;
 }
 
 

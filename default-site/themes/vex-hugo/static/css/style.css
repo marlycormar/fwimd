@@ -321,6 +321,16 @@ a:active {
  margin-bottom: 50px;
 }
 
+#feature-list-left-img {
+  width: 100%;
+  height: auto;
+}
+
+#feature-list-right-img {
+  width: 100%;
+  height: auto;
+}
+
 
 /*--
   Gallery start
