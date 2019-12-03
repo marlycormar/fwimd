@@ -1,5 +1,26 @@
 @media (min-width: 768px) and (max-width: 990px) {
-  .navigation {
-    background: rgba(0, 0, 0, 0.3); }
-    .navigation .navbar-brand {
-      float: none; } }
+	.navigation {
+		background: rgba(0, 0, 0, 0.3);
+	}
+	.navigation .navbar-brand {
+		float: none;
+	}
+}
+
+@media (max-width: 767px) {
+	#hero-area-logo{
+		display: none;
+	}
+
+	.navigation {
+		background: rgba(0, 0, 0, 0.3);
+	}
+
+	.navigation .navbar-brand {
+		float: none;
+	}
+
+	#feature-list-left-img{
+		display: none;
+	}
+}
