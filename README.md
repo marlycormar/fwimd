@@ -6,7 +6,7 @@
 ### Organizers
 
 - Yuan Wang, Professor, FAU
-- Marly Cormar, PhD Candidate, UF
+- Marly Gotti, Senior Data Scientist, Biogen Inc.
 - Anae Myers, PhD Candidate, FAU
 - Catherine Berrouet, Graduate Student, FAU
 - Tran Ngo, PhD Candidate, FAU
