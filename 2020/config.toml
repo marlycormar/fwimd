@@ -60,8 +60,7 @@ theme = "vex-hugo"
       
   [params.planned_activities]
     title = "Planned Activities"
-    text = "Coming soon!!"
-  
+
   [params.feature_list]
     title = "Conference Features"
     [[params.feature_list.items]]
